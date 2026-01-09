@@ -1,0 +1,224 @@
+{
+  "version": 1,
+  "base_track": "Mr.Children 「シーソーゲーム 〜勇敢な恋の歌〜」 MUSIC VIDEO",
+  "base_artist": "Mr.Children",
+  "createdAt": "2026-01-09T09:33:59.669525Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mr. Children - 名もなき詩",
+      "artist": "Eric Wu",
+      "has_synced": true,
+      "path": "select/01_Mr._Children_-_名もなき詩_Eric_Wu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mr.Children 「Sign」 MUSIC VIDEO",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/02_Mr.Children_「Sign」_MUSIC_VIDEO_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mr Children",
+      "artist": "Hacken Lee",
+      "has_synced": true,
+      "path": "select/03_Mr_Children_Hacken_Lee.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Mr.Children 「GIFT」 MUSIC VIDEO",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/04_Mr.Children_「GIFT」_MUSIC_VIDEO_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mr.Children つよがり",
+      "artist": "Mr.Chil.Pics.",
+      "has_synced": true,
+      "path": "select/05_Mr.Children_つよがり_Mr.Chil.Pics..lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mr.Children 「Tomorrow never knows」 MUSIC VIDEO",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/06_Mr.Children_「Tomorrow_never_knows」_MUSIC_VIDEO_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ROLLIN' ROLLING ~一見は百聞に如かず (カラオケ Originally Performed By Mr.Children)",
+      "artist": "DAMカラオケ",
+      "has_synced": false,
+      "path": "select/07_ROLLIN'_ROLLING_~一見は百聞に如かず_(カラオケ_Originally_Performed_By_Mr.Children)_DAMカラオケ.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "リボン - feat.桜井和寿(Mr.Children)",
+      "artist": "Tokyo Ska Paradise Orchestra feat. Kazutoshi Sakurai",
+      "has_synced": false,
+      "path": "select/08_リボン_-_feat.桜井和寿(Mr.Children)_Tokyo_Ska_Paradise_Orchestra_feat._Kazutoshi_Sakurai.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "リボン - feat.桜井和寿(Mr.Children)",
+      "artist": "Tokyo Ska Paradise Orchestra, Kazutoshi Sakurai",
+      "has_synced": false,
+      "path": "select/09_リボン_-_feat.桜井和寿(Mr.Children)_Tokyo_Ska_Paradise_Orchestra,_Kazutoshi_Sakurai.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "CROSS ROAD (Originally Performed by Mr.Children)",
+      "artist": "スーパー☆キラキラ",
+      "has_synced": false,
+      "path": "select/10_CROSS_ROAD_(Originally_Performed_by_Mr.Children)_スーパー☆キラキラ.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "つよがり (Mr.Children cover)",
+      "artist": "the pillows",
+      "has_synced": false,
+      "path": "select/11_つよがり_(Mr.Children_cover)_the_pillows.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "リボン - feat.桜井和寿(Mr.Children)",
+      "artist": "Tokyo Ska Paradise Orchestra",
+      "has_synced": true,
+      "path": "select/12_リボン_-_feat.桜井和寿(Mr.Children)_Tokyo_Ska_Paradise_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "シーソーゲーム~勇敢な恋の歌~ - Instrumental Version",
+      "artist": "Mr.Children",
+      "has_synced": false,
+      "path": "select/13_シーソーゲーム~勇敢な恋の歌~_-_Instrumental_Version_Mr.Children.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "シーソーゲーム〜勇敢な恋の歌〜",
+      "artist": "Mr.Children",
+      "has_synced": false,
+      "path": "select/14_シーソーゲーム〜勇敢な恋の歌〜_Mr.Children.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "シーソーゲーム～勇敢な恋の歌～",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/15_シーソーゲーム~勇敢な恋の歌~_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "シーソーゲーム ~勇敢な恋の歌~",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/16_シーソーゲーム_~勇敢な恋の歌~_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "シーソーゲーム ～勇敢な恋の歌～ - Seesawgame Yukanna Koi no Uta",
+      "artist": "Ayaka",
+      "has_synced": true,
+      "path": "select/17_シーソーゲーム_~勇敢な恋の歌~_-_Seesawgame_Yukanna_Koi_no_Uta_Ayaka.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "シーソーゲーム 〜勇敢な恋の歌〜",
+      "artist": "Mr․Children",
+      "has_synced": false,
+      "path": "select/18_シーソーゲーム_〜勇敢な恋の歌〜_Mr.Children.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "シーソーゲーム ～勇敢な恋の歌～",
+      "artist": "Mr.Children",
+      "has_synced": false,
+      "path": "select/19_シーソーゲーム_~勇敢な恋の歌~_Mr.Children.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "シーソーゲーム~勇敢な恋の歌~",
+      "artist": "Mr.Children",
+      "has_synced": false,
+      "path": "select/20_シーソーゲーム~勇敢な恋の歌~_Mr.Children.txt"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "シーソーゲーム 〜勇敢な恋の歌〜",
+      "artist": "Mr. Children",
+      "has_synced": false,
+      "path": "select/21_シーソーゲーム_〜勇敢な恋の歌〜_Mr._Children.txt"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "シーソーゲーム〜勇敢な恋の歌〜",
+      "artist": "絢香",
+      "has_synced": true,
+      "path": "select/22_シーソーゲーム〜勇敢な恋の歌〜_絢香.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "シーソーゲーム～勇敢な恋の歌",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/23_シーソーゲーム~勇敢な恋の歌_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "シーソーゲーム～勇敢な恋の歌～",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/24_シーソーゲーム~勇敢な恋の歌~_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "シーソーゲーム～勇敢な恋の歌～",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/25_シーソーゲーム~勇敢な恋の歌~_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "シーソーゲーム 〜勇敢な恋の歌〜",
+      "artist": "絢香",
+      "has_synced": true,
+      "path": "select/26_シーソーゲーム_〜勇敢な恋の歌〜_絢香.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シーソーゲーム ～勇敢な恋の歌～",
+      "artist": "Mr.Children",
+      "has_synced": false,
+      "path": "select/pl_01_シーソーゲーム_~勇敢な恋の歌~_Mr.Children.txt"
+    }
+  ]
+}
